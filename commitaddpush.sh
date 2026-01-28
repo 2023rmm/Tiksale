@@ -1,5 +1,5 @@
 #!/bin/bash
 
 git add .
-git commit -m "Customcommitmessage"
+git commit -m "add index.html"
 git push
