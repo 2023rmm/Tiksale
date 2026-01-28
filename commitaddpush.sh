@@ -1,5 +1,5 @@
 #!/bin/bash
 
 git add .
-git commit -m "add testfile"
+git commit -m "add html"
 git push
