@@ -1,0 +1,7 @@
+<FilesMatch "\.(env|ini|log|sql|md)$">
+    Require all denied
+</FilesMatch>
+
+<Directory "config">
+    Require all denied
+</Directory>
